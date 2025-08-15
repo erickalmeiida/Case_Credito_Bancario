@@ -25,4 +25,4 @@ Instalei o LIME no intuito de trazer explicações claras sobre esse novo modelo
 <img width="1197" height="434" alt="image" src="https://github.com/user-attachments/assets/87a8715e-4ecd-43da-a16a-8e139cac31f2" />
 <img width="1852" height="671" alt="image" src="https://github.com/user-attachments/assets/561b2380-c1c3-4133-889c-8f72d6c35988" />
 
-Basicamente, professor, esse foi o meu dataset básico. Espero que goste e te agradeço desde já!
+Como nos foi passado, poderia ter o uso de IA para nos ajudar a fazer o dataset, emtão, utilizei IA para ter um norte de como fazer o trabalho. Esse basicamente foi o meu trabalho, espero que goste!
